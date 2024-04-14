@@ -152,7 +152,6 @@ else
 }
 
 
-using System.Diagnostics;
 
 Console.WriteLine("tasks part2");
 
